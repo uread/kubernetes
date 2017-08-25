@@ -1,1 +1,1 @@
-FROM gcr.io/google-containers/kube-apiserver:v.1.7.3
+FROM gcr.io/google-containers/kube-apiserver:v1.7.3
